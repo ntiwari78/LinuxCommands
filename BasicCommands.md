@@ -27,3 +27,6 @@ http://www.thegeekstuff.com/2011/11/strace-examples/
 ### Linux man page
 https://linux.die.net/man/
 
+### Unix basic page
+https://www.computerhope.com/unix.htm
+
